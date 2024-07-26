@@ -4,7 +4,7 @@ Welcome to the COSMOPharm package, accompanying [our paper in *Molecular Pharmac
 
 <p align="center">
   <!-- <img src="https://github.com/usnistgov/COSMOSAC/raw/master/JCTC2020.PNG" alt="TOC Figure" width="500"> -->
-  <img src="https://github.com/usnistgov/COSMOSAC/raw/master/JCTC2020.PNG" alt="TOC Figure">
+  <img src="https://github.com/ivanantolo/cosmopharm/raw/main/TOC.png" alt="TOC Figure">
 </p>
 
 ## About 
