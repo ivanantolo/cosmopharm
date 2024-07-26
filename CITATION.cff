@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: "If you use COSMOPharm for your research, please cite the associated research article as follows."
+
+# Preferred citation for the associated research article
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Antolovic
+      given-names: Ivan
+    - family-names: Vrabec
+      given-names: Jadran
+    - family-names: Klajmon
+      given-names: Martin
+  title: "COSMOPharm: Drug--Polymer Compatibility of Pharmaceutical Amorphous Solid Dispersions from COSMO-SAC"
+  journal: "Molecular Pharmaceutics"
+  doi: "10.1021/acs.molpharmaceut.3c12345"
+  year: 2024
+  month: 3
+  start: 1
+  end: 10
+  issue: 1
+  volume: 1
+
+# Citation information for the COSMOPharm software
+title: "COSMOPharm Tool: Computational Analysis of Drug-Polymer Compatibility"
+version: "1.0.0"
+doi: "10.5281/zenodo.10792203" # Replace with actual DOI if available
+date-released: 2024-03-28
+url: "https://github.com/ivanantolo/cosmopharm"
+authors:
+  - family-names: Antolović
+    given-names: Ivan
+    affiliation: "Thermodynamics, Technische Universität Berlin, Ernst-Reuter-Platz 1, 10587 Berlin, Germany"
+    email: ivan.antolovic@tu-berlin.de
+  - family-names: Vrabec
+    given-names: Jadran
+    affiliation: "Thermodynamics, Technische Universität Berlin, Ernst-Reuter-Platz 1, 10587 Berlin, Germany"
+  - family-names: Klajmon
+    given-names: Martin
+    affiliation: "Department of Physical Chemistry, University of Chemistry and Technology, Prague, Technická 5, 166 28 Prague 6, Czechia"
+    email: martin.klajmon@vscht.cz
+keywords:
+  - chemical-engineering
+  - phase-behavior
+  - cosmo-sac
+  - solubility-prediction
+  - pharmaceutical-science
+  - pharmaceutical-development
+  - drug-polymer-compatibility
+  - miscibility-analysis
+  - amorphous-solid-dispersions
+  - cosmopharm

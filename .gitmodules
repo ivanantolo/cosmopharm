@@ -1,0 +1,3 @@
+[submodule "profiles/pharmaceuticals"]
+	path = profiles/pharmaceuticals
+	url = https://github.com/klajmonm/pharmaceuticals
