@@ -41,7 +41,7 @@ def import_delaware(names, path_to_sigmas, path_to_complist):
 	# most information not really needed to import sigma profile
 	# path to sigma profiles + complist.txt
 	# names are not equal to identifiers
-	# also one name = one identifiere --> what if you have modifications?
+	# also one name = one identifier --> what if you have modifications?
 	# so one name, but different .sigma files
     db = cCOSMO.DelawareProfileDatabase(path_to_complist, path_to_sigmas)
     for name in names:
